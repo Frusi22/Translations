@@ -3,7 +3,7 @@
   "pluginVersion": "3.0.2",
   "authors": "Scurovoid,Sevler",
   "generalNotAuthenticated": "Вы не зарегистрированы!",
-  "generalNotLoggedIn": "Вы уже авторизованы!",
+  "generalNotLoggedIn": "Вы уже авториз3ованы!",
   "generalPasswordLength": "Пароль не может быть короче %min% и длиннее %max% символов!",
   "generalUnknownHash": "Ваш аккаунт использует неизвестный шифр, пожалуйста сообщите администрации.",
   "loginTriesExceeded": "Превышено допустимое число попыток входа: %max%",
